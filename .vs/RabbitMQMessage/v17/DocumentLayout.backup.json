@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\RabbitMQMessage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61741F54-1EFE-49EB-90B3-5ADB52F1E85E}|PostService\\PostService.csproj|c:\\users\\administrator\\source\\repos\\rabbitmqmessage\\postservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61741F54-1EFE-49EB-90B3-5ADB52F1E85E}|PostService\\PostService.csproj|solutionrelative:postservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82CF2837-6C0D-4B51-8D49-74599A6D7734}|RabbitMQMessage\\UserService.csproj|c:\\users\\administrator\\source\\repos\\rabbitmqmessage\\rabbitmqmessage\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82CF2837-6C0D-4B51-8D49-74599A6D7734}|RabbitMQMessage\\UserService.csproj|solutionrelative:rabbitmqmessage\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61741F54-1EFE-49EB-90B3-5ADB52F1E85E}|PostService\\PostService.csproj|c:\\users\\administrator\\source\\repos\\rabbitmqmessage\\postservice\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61741F54-1EFE-49EB-90B3-5ADB52F1E85E}|PostService\\PostService.csproj|solutionrelative:postservice\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82CF2837-6C0D-4B51-8D49-74599A6D7734}|RabbitMQMessage\\UserService.csproj|c:\\users\\administrator\\source\\repos\\rabbitmqmessage\\rabbitmqmessage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82CF2837-6C0D-4B51-8D49-74599A6D7734}|RabbitMQMessage\\UserService.csproj|solutionrelative:rabbitmqmessage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61741F54-1EFE-49EB-90B3-5ADB52F1E85E}|PostService\\PostService.csproj|c:\\users\\administrator\\source\\repos\\rabbitmqmessage\\postservice\\data\\postservicecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61741F54-1EFE-49EB-90B3-5ADB52F1E85E}|PostService\\PostService.csproj|solutionrelative:postservice\\data\\postservicecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61741F54-1EFE-49EB-90B3-5ADB52F1E85E}|PostService\\PostService.csproj|c:\\users\\administrator\\source\\repos\\rabbitmqmessage\\postservice\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61741F54-1EFE-49EB-90B3-5ADB52F1E85E}|PostService\\PostService.csproj|solutionrelative:postservice\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61741F54-1EFE-49EB-90B3-5ADB52F1E85E}|PostService\\PostService.csproj|c:\\users\\administrator\\source\\repos\\rabbitmqmessage\\postservice\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61741F54-1EFE-49EB-90B3-5ADB52F1E85E}|PostService\\PostService.csproj|solutionrelative:postservice\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82CF2837-6C0D-4B51-8D49-74599A6D7734}|RabbitMQMessage\\UserService.csproj|c:\\users\\administrator\\source\\repos\\rabbitmqmessage\\rabbitmqmessage\\data\\userservicecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82CF2837-6C0D-4B51-8D49-74599A6D7734}|RabbitMQMessage\\UserService.csproj|solutionrelative:rabbitmqmessage\\data\\userservicecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82CF2837-6C0D-4B51-8D49-74599A6D7734}|RabbitMQMessage\\UserService.csproj|c:\\users\\administrator\\source\\repos\\rabbitmqmessage\\rabbitmqmessage\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82CF2837-6C0D-4B51-8D49-74599A6D7734}|RabbitMQMessage\\UserService.csproj|solutionrelative:rabbitmqmessage\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82CF2837-6C0D-4B51-8D49-74599A6D7734}|RabbitMQMessage\\UserService.csproj|c:\\users\\administrator\\source\\repos\\rabbitmqmessage\\rabbitmqmessage\\userservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{82CF2837-6C0D-4B51-8D49-74599A6D7734}|RabbitMQMessage\\UserService.csproj|solutionrelative:rabbitmqmessage\\userservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82CF2837-6C0D-4B51-8D49-74599A6D7734}|RabbitMQMessage\\UserService.csproj|c:\\users\\administrator\\source\\repos\\rabbitmqmessage\\rabbitmqmessage\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{82CF2837-6C0D-4B51-8D49-74599A6D7734}|RabbitMQMessage\\UserService.csproj|solutionrelative:rabbitmqmessage\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61741F54-1EFE-49EB-90B3-5ADB52F1E85E}|PostService\\PostService.csproj|c:\\users\\administrator\\source\\repos\\rabbitmqmessage\\postservice\\postservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{61741F54-1EFE-49EB-90B3-5ADB52F1E85E}|PostService\\PostService.csproj|solutionrelative:postservice\\postservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61741F54-1EFE-49EB-90B3-5ADB52F1E85E}|PostService\\PostService.csproj|c:\\users\\administrator\\source\\repos\\rabbitmqmessage\\postservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{61741F54-1EFE-49EB-90B3-5ADB52F1E85E}|PostService\\PostService.csproj|solutionrelative:postservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61741F54-1EFE-49EB-90B3-5ADB52F1E85E}|PostService\\PostService.csproj|c:\\users\\administrator\\source\\repos\\rabbitmqmessage\\postservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{61741F54-1EFE-49EB-90B3-5ADB52F1E85E}|PostService\\PostService.csproj|solutionrelative:postservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserService.http",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\RabbitMQMessage\\RabbitMQMessage\\UserService.http",
+              "RelativeDocumentMoniker": "RabbitMQMessage\\UserService.http",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\RabbitMQMessage\\RabbitMQMessage\\UserService.http",
+              "RelativeToolTip": "RabbitMQMessage\\UserService.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-09-03T03:12:17.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PostService.http",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\RabbitMQMessage\\PostService\\PostService.http",
+              "RelativeDocumentMoniker": "PostService\\PostService.http",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\RabbitMQMessage\\PostService\\PostService.http",
+              "RelativeToolTip": "PostService\\PostService.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-09-03T03:05:31.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\RabbitMQMessage\\PostService\\appsettings.json",
+              "RelativeDocumentMoniker": "PostService\\appsettings.json",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\RabbitMQMessage\\PostService\\appsettings.json",
+              "RelativeToolTip": "PostService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-02T12:20:09.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\RabbitMQMessage\\RabbitMQMessage\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "RabbitMQMessage\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\RabbitMQMessage\\RabbitMQMessage\\Properties\\launchSettings.json",
+              "RelativeToolTip": "RabbitMQMessage\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAsAAAAAAAAAAABRwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-02T12:13:20.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\RabbitMQMessage\\PostService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "PostService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\RabbitMQMessage\\PostService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "PostService\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-02T12:10:59.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PostController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\RabbitMQMessage\\PostService\\Controllers\\PostController.cs",
+              "RelativeDocumentMoniker": "PostService\\Controllers\\PostController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\RabbitMQMessage\\PostService\\Controllers\\PostController.cs",
+              "RelativeToolTip": "PostService\\Controllers\\PostController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAcwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T07:34:12.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\RabbitMQMessage\\PostService\\Program.cs",
+              "RelativeDocumentMoniker": "PostService\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\RabbitMQMessage\\PostService\\Program.cs",
+              "RelativeToolTip": "PostService\\Program.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAYwHkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T07:31:07.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PostServiceContext.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\RabbitMQMessage\\PostService\\Data\\PostServiceContext.cs",
+              "RelativeDocumentMoniker": "PostService\\Data\\PostServiceContext.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\RabbitMQMessage\\PostService\\Data\\PostServiceContext.cs",
+              "RelativeToolTip": "PostService\\Data\\PostServiceContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T07:29:16.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\RabbitMQMessage\\PostService\\Models\\Post.cs",
+              "RelativeDocumentMoniker": "PostService\\Models\\Post.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\RabbitMQMessage\\PostService\\Models\\Post.cs",
+              "RelativeToolTip": "PostService\\Models\\Post.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T07:27:30.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\RabbitMQMessage\\PostService\\Models\\User.cs",
+              "RelativeDocumentMoniker": "PostService\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\RabbitMQMessage\\PostService\\Models\\User.cs",
+              "RelativeToolTip": "PostService\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T07:26:36.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\RabbitMQMessage\\RabbitMQMessage\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "RabbitMQMessage\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\RabbitMQMessage\\RabbitMQMessage\\Controllers\\UserController.cs",
+              "RelativeToolTip": "RabbitMQMessage\\Controllers\\UserController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAwFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T07:16:27.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\RabbitMQMessage\\RabbitMQMessage\\Program.cs",
+              "RelativeDocumentMoniker": "RabbitMQMessage\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\RabbitMQMessage\\RabbitMQMessage\\Program.cs",
+              "RelativeToolTip": "RabbitMQMessage\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T07:10:17.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserServiceContext.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\RabbitMQMessage\\RabbitMQMessage\\Data\\UserServiceContext.cs",
+              "RelativeDocumentMoniker": "RabbitMQMessage\\Data\\UserServiceContext.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\RabbitMQMessage\\RabbitMQMessage\\Data\\UserServiceContext.cs",
+              "RelativeToolTip": "RabbitMQMessage\\Data\\UserServiceContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T07:06:25.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\RabbitMQMessage\\RabbitMQMessage\\Models\\User.cs",
+              "RelativeDocumentMoniker": "RabbitMQMessage\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\RabbitMQMessage\\RabbitMQMessage\\Models\\User.cs",
+              "RelativeToolTip": "RabbitMQMessage\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T07:02:51.118Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
